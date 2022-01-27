@@ -1,0 +1,8 @@
+# Ignore things in here
+
+# Ignore files in these directories
+cmake-build-debug/
+.idea/
+
+# Ignore this CLion related item
+CMakeLists.txt
